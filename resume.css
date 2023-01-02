@@ -1,0 +1,133 @@
+@media  screen and (max-width: 1025px) and (min-width: 241px){
+    .main{
+        width: 100%;
+    }
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    border: 1px solid black;
+    width: 1000px;
+    padding-left: 20px;
+    height: 900px;
+}
+body{
+    padding-left: 160px;
+    margin: 10px;
+}
+p{
+    text-decoration: underline;
+    font-family: 'Courier New', Courier, monospace;
+}
+a{
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 10px;
+}
+.github{
+    padding-left: 290px;
+}
+.work{
+    margin-top: 20px;
+    border-bottom: 3px solid;
+}
+.projects{
+    margin-top: 15px;
+    border-bottom: 3px solid;
+}
+.education{
+    text-decoration: underline;
+    text-align: end;
+    padding-right: 20px;
+    margin-top: 20px;
+    padding-left: 300px;
+}
+.mob{
+    padding-left: 130px;
+}
+.location{
+    padding-left: 130px;
+}
+.main-info{
+    width: 600px;
+}
+.main-info-2{
+    border: 1px solid black;
+}
+h2{
+    color: rgb(66, 63, 63);
+    font-family: 'Courier New', Courier, monospace;
+}
+h4{
+    color: red;
+    text-decoration: underline;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    padding-bottom: 8px;
+}
+h2{
+    margin-top: 10px;
+}
+.info{
+    margin-top: 10px;
+    font-family: 'Montserrat', serif;
+}
+.calender{
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 10px;
+    display: inline-block;
+    padding-bottom: 8px;
+}
+.name{
+    font-size: 60px;
+}
+.developer{
+    font-size: 40px;
+}
+.fa-map-marker, .fa-linkedin-square, .fa-github{
+    padding-right: 10px;
+    display: inline-block;
+    color: grey;
+}
+.fa-phone, .fa-envelope, .fa-calendar{
+    color: grey;
+}
+.list{
+    padding-left: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.model{
+    padding-left: 30px;
+}
+.some{
+    width: 330px;
+    transform: translate(630px, -731px);
+    margin-left: 10px;
+}
+.btech{
+    padding-top: 15px;
+    color: rgb(104, 98, 98);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 17px;
+    font-weight: bold;
+    padding-bottom: 5px;
+}
+p.cgpa{
+    margin-left: 24px;
+    padding-top: 5px;
+    text-decoration: none;
+}
+.state{
+    font-family: 'Courier New', Courier, monospace;
+}
+.client{
+    color: rgb(66, 63, 63);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+strong{
+    color: rgb(61, 58, 58);
+}
